@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JCSaa
-- 👀 I’m interested in Javascript, SSGs, React and Vue.
+- 👀 I’m interested in Javascript, 11ty, and Nuxt.
 - 🌱 I’m currently learning Javascript and Moustache templating
 - 💞️ I’m looking to collaborate on some opensource projects once I gain some profficiency with my coding.
 - 📫 How to reach me ...
