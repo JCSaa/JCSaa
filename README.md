@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JCSaa
-- 👀 I’m interested in Javascript, 11ty, and Nuxt.
-- 🌱 I’m currently learning Javascript and Nunjucks templating
-- 💞️ I’m looking to collaborate on some opensource projects once I gain some profficiency with my coding.
-- 📫 How to reach me ...
+- 👋 Hi there, my name is Juan C. Saa...
+- 👀 I’m intrigued by simple lightweight websites and interested in 11ty, Nunjucks, Markdown and lightweight CSS.
+- 🌱 Currently working on a niche Blog about gaming operations and little by little learning some Javascript.
+- 💞️ Looking forward to contribute to opensource projects once I gain some usable profficiency with my coding.
+- 📫 You can get in touch with me at jcsaal@gmail.com
 
 <!---
 JCSaa/JCSaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
