@@ -1,7 +1,6 @@
 - 👋 Hi there, my name is Juan C. Saa...
-- 👀 I’m intrigued by simple lightweight websites and interested in 11ty, Nunjucks, Markdown and lightweight CSS.
+- 👀 I’m intrigued by simple lightweight websites and interested in 11ty, Nunjucks, Markdown, and lightweight CSS.
 - 🌱 Currently working on a niche Blog about gaming operations and little by little learning some Javascript.
-- 💞️ Looking forward to contribute to opensource projects once I gain some usable profficiency with my coding.
 - 📫 You can get in touch with me at jcsaal@gmail.com
 
 <!---
